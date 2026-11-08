@@ -1,0 +1,6 @@
+Copiá aquí tus tres imágenes con estos nombres:
+expresiones-1.jpg
+expresiones-2.jpg
+expresiones-3.jpg
+
+Si son PNG, cambiá también las extensiones en los src del artículo expresiones de index.html. No alcanza con renombrar la extensión de un archivo.
